@@ -97,4 +97,5 @@ Proxy-Authorization: basic aGVsbG86d29ybGQ=
 - [HTTP headers](/en-US/docs/Web/HTTP/Reference/Headers)
 - {{Glossary("Proxy server")}} glossary entry
 - {{HTTPHeader("Proxy-Authorization")}} header
-- [How To Use SSH Over An HTTP Proxy](https://www.dimoulis.net/posts/ssh-over-proxy/) dimoulis.net (2023)
+- [How To Use SSH Over An methods](/en-US/docs/Web/HTTP/Reference/Methods)
+-  Proxy](https://www.dimoulis.net/posts/ssh-over-proxy/) dimoulis.net (2023)
